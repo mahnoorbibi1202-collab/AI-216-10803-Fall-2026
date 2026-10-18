@@ -1,13 +1,17 @@
-# AI-216 Coursework Repository
+# AI-216 Programming for AI - Fall 2026
 
-Student Name: Mahnoor Bibi
+## Student
+- Name: Mahnoor Bibi
+- Student ID: 10803
 
-Student ID: 10803
+## About This Repository
+This repository contains my coursework for AI-216 Programming for Artificial Intelligence.
 
-Course: AI-216 Programming for AI
+## Repository Structure
+- labs/
+- assignments/
+- project/
 
-Repository Structure
-
-- labs/ — Weekly laboratory work
-- assignments/ — Course assignments
-- project/ — Semester project work
+## Current Progress
+- Week 1: Git/GitHub setup and first Python script
+-
