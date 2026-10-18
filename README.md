@@ -11,3 +11,5 @@ Repository Structure
 - labs/ — Weekly laboratory work
 - assignments/ — Course assignments
 - project/ — Semester project work
+- Lab 01 initialized
+-
