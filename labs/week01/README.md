@@ -27,4 +27,21 @@ Explain briefly how version control supports:
 - **reproducibility**: Ensures that AI experiments, training scripts, and environments can be exactly replicated and re-run by anyone.
 - **traceability**: Keeps a complete historical log of every change, making it easy to track down bugs or regression in code and datasets.
 - **collaboration**: Enables multiple team members or AI engineers to work on shared models and codebases simultaneously without losing work.
+-## AI Usage Log
+
+### Tool Used
+Gemini / ChatGPT
+
+### What I Asked
+- How to create and format the Week 1 lab README file.
+- How to fix Git path errors and incorrect file extensions like `.md.txt`.
+- What Git commands to run (`git add`, `git commit`, `git push`) for pushing changes.
+
+### What I Used From the Response
+- Used the complete Markdown template provided for `README.md`.
+- Followed step-by-step terminal commands (`git add .`, `git mv`, `git commit`, `git push`) to resolve errors and push files to GitHub.
+
+### What I Verified or Changed Myself
+- Verified folder paths and fixed file renaming issues in Git Bash.
+- Tested all Git commands in the local repository and checked the GitHub repo to confirm files uploaded correctly.
 -
