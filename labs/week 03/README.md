@@ -1,4 +1,4 @@
-# Week 03
+# Week 02
 
 ## Task 1 - Function Design & Reuse
 Task 2 — Part A: Observe Scope
