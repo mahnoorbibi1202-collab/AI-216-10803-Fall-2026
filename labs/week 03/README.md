@@ -26,3 +26,19 @@ Testing:
 Reflection:
 
 Explicit parameters make functions easier to reuse and test because they receive values directly. They do not depend on hidden global variables.
+
+Task 3 — Create and Use Your Own Module
+
+Purpose of Modules:
+
+Modules help us organize code into separate files and reuse functions in other files.
+
+Functions Created:
+
+- "calculate_average(scores)"
+- "is_passing(score, passing_score=50)"
+- "count_above_threshold(scores, threshold)"
+
+Main Guard:
+
+The statement "if __name__ == "__main__":" runs the demo code only when the file is executed directly, not when it is imported into another file.
