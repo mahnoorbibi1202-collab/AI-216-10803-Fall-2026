@@ -1,3 +1,4 @@
+PART - A
 score = 90
 
 def show_score():
@@ -13,4 +14,14 @@ def is_qualified(score, threshold):
 
 print(is_qualified(0.90, 0.85))
 print(is_qualified(0.80, 0.85))
+print(is_qualified(0.85, 0.85))
+
+PART_B
+threshold = 0.85
+
+def is_qualified(score, threshold):
+    return score >= threshold
+
+print(is_qualified(0.90, 0.85))
+print(is_qualified(0.70, 0.85))
 print(is_qualified(0.85, 0.85))
